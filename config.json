@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseerocess",
+        "uuid": 22761183,
+        "checksum": "1wbvp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
